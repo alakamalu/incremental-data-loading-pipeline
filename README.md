@@ -97,9 +97,6 @@ incremental_loading_project/
 ├── data/
 │   └── olist_orders_dataset.csv
 │
-├── warehouse/
-│   └── warehouse.db
-│
 ├── incremental_pipeline.ipynb
 │
 └── README.md
