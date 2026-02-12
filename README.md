@@ -89,20 +89,6 @@ If the pipeline runs again without new data, nothing is inserted.
 This ensures efficient and repeatable execution.
 
 
-## 📂 Project Structure
-
-```
-incremental_loading_project/
-│
-├── data/
-│   └── olist_orders_dataset.csv
-│
-├── incremental_pipeline.ipynb
-│
-└── README.md
-```
-
-
 ## 🧱 Data Warehouse Schema
 
 Table: `fact_orders`
